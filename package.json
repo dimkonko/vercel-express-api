@@ -12,5 +12,8 @@
   "bugs": {
     "url": "https://github.com/dimkonko/vercel-express-api/issues"
   },
-  "homepage": "https://github.com/dimkonko/vercel-express-api#readme"
+  "homepage": "https://github.com/dimkonko/vercel-express-api#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
