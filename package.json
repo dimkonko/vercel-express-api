@@ -1,0 +1,16 @@
+{
+  "name": "vercel-express-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimkonko/vercel-express-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimkonko/vercel-express-api/issues"
+  },
+  "homepage": "https://github.com/dimkonko/vercel-express-api#readme"
+}
